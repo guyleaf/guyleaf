@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm going to introduce my portfolio.
 - UTWRS_pytorch (Private): 與美國辛辛那提 Mehdi 教授合作研究，影片摘要，Frame-level video scenes' summarization
 
-- bioproject (Private): 畢業專題，廣效型多胜肽智慧疫苗之預測分析平台，將提供抗原表位預測結果與病原體分析結果，節省我國疫苗研究人員研發成本與試驗
+- bioproject (Private): 畢業專題，廣效型多胜肽智慧疫苗之預測分析平台，將提供抗原表位預測結果與病原體分析結果，節省我國疫苗研究人員約60%研發成本與試驗
 
 - [csie_restaurant](https://github.com/guyleaf/csie_restaurant): CSIE restaurant 電子商務餐廳外送平台 - 實作結帳系統、訂單系統、評論系統與後台管理系統等...
 
