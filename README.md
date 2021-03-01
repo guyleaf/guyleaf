@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm going to introduce my repositories as my portfolio.
+I'm going to introduce my portfolio.
 - csie_restaurant: CSIE restaurant 電子商務餐廳外送平台 - 實作結帳系統、訂單系統、評論系統與後台管理系統等...
 
 - Household-income-prediction_BDA: Big Data Analysis 期末專題 - 菲律賓家庭收入預測
