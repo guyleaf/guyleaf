@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 I'm going to introduce my portfolio.
+- UTWRS_pytorch (Private): 與美國辛辛那提 Mehdi 教授合作研究，影片摘要，Frame-level video scenes' summarization
+
+- bioproject (Private): 畢業專題，廣效型多胜肽智慧疫苗之預測分析平台建置，幫助我國養殖漁業，針對我國高經濟價值魚種治療，將提供預測結果，抗原表位與病原體分析結果
+
 - [csie_restaurant](https://github.com/guyleaf/csie_restaurant): CSIE restaurant 電子商務餐廳外送平台 - 實作結帳系統、訂單系統、評論系統與後台管理系統等...
 
 - [Household-income-prediction_BDA](https://github.com/guyleaf/Household-income-prediction_BDA): Big Data Analysis 期末專題 - 菲律賓家庭收入預測
