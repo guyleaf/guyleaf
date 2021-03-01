@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋, I'm YAO-TE YING 應耀德.
 
 <!--
 **guyleaf/guyleaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm going to introduce my repositories as my portfolio.
+- csie_restaurant: CSIE restaurant 電子商務餐廳外送平台 - 實作結帳系統、訂單系統、評論系統與後台管理系統等...
+
+- Household-income-prediction_BDA: Big Data Analysis 期末專題 - 菲律賓家庭收入預測
+
+- oop_game_project: OOP 物件導向程式設計實習 - 遊戲實作電眼美女，運用有限的物理引擎與動畫，完整呈現原版遊戲風格與情境
+
+- My-Journal_webproject: 前端網頁設計期末專題 - My Journal，旅遊日記為主題，實作日記式靜態網頁
+
+- cplusplus: OOP 物件導向程式設計作業 - 漸進式實作商店買賣系統
+
+- python: Python 程式設計作業 - 傳說中的北科大資工系的第一道關卡，由郭忠義教授出題
