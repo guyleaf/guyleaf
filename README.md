@@ -1,4 +1,4 @@
-## Hi there 👋, I'm YAO-TE YING 應耀德.
+## Hi there 👋，I'm YAO-TE YING 應耀德.
 
 <!--
 **guyleaf/guyleaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
