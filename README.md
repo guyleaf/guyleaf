@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm going to introduce my portfolio.
-- UTWRS_pytorch (Private): 與美國辛辛那提 Mehdi 教授合作研究，Frame-level video scene detection
+- [FLVCD](https://github.com/guyleaf/FLVCD): 與美國辛辛那提 Mehdi 教授合作研究，Frame-level Video Scene Detection
 
 - bioproject (Private): 畢業專題，廣效型多胜肽智慧疫苗之預測分析平台，提供抗原表位預測結果與病原體分析結果，減少研究時間、資源成本與試驗
 
