@@ -20,7 +20,7 @@ I'm going to introduce my portfolio.
 
 - bioproject (Private): 畢業專題，廣效型多胜肽智慧疫苗之預測分析平台，提供抗原表位預測結果與病原體分析結果，減少研究時間、資源成本與試驗
 
-- [csie_restaurant](https://github.com/guyleaf/csie_restaurant): CSIE restaurant 電子商務餐廳外送平台 - 實作結帳系統、訂單系統、評論系統與後台管理系統等...
+- [csie_restaurant](https://github.com/guyleaf/csie_restaurant): CSIE restaurant 孜宮庭園-北科大校園外送平台 - 實作結帳系統、訂單系統、評論系統與後台管理系統等...
 
 - [Household-income-prediction_BDA](https://github.com/guyleaf/Household-income-prediction_BDA): Big Data Analysis 期末專題 - 菲律賓家庭收入預測
 
