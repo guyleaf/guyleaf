@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Metrics](https://metrics.lecoq.io/guyleaf?template=classic&config.timezone=Asia%2FTaipei)
+
 I'm going to introduce my portfolio.
 - [FLVCD](https://github.com/guyleaf/FLVCD): 與美國辛辛那提 Mehdi Norouzi 教授專題研究，Frame-level Video Scene Detection，存放模型與資料預處理 Code
 
