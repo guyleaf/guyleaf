@@ -1,4 +1,4 @@
-## Hi there 👋，I'm YAO-TE YING 應耀德.
+## Hi there 👋，I'm Leaf Ying 應耀德. You can call me Leaf.
 
 <!--
 **guyleaf/guyleaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Metrics](https://metrics.lecoq.io/guyleaf?template=classic&config.timezone=Asia%2FTaipei)
+How to reach me:
+Email: leaf.ying.work@gmail.com
