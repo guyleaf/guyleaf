@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-How to reach me:
-Email: leaf.ying.work@gmail.com
+You can reach me by email: leaf.ying.work@gmail.com
